@@ -6,6 +6,8 @@ the temperature, current weather, and the high and low temperature for the day.
 This project was based off of Tyler Potts's "Build a Weather app using HTML, CSS & JavaScript in 2020" video on YouTube. 
 https://www.youtube.com/watch?v=n4dtwWgRueI
 
+Here is a link to the API's website: https://openweathermap.org/api
+
 # Modifications:
 -- Used async await instead of .then. 
 
